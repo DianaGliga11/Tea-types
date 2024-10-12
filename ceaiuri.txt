@@ -1,0 +1,7 @@
+1,a,iasomie,12
+2,b,busuioc,9
+3,c,menta,10
+4,d,trandafir,12
+5,e,busuioc,11
+6,f,menta,13
+7,g,menta,8
